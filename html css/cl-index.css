@@ -1,8 +1,8 @@
 
 
 body {
-  background-color: greenyellow;
-  
+  /*background-color: greenyellow;*/
+  background-image: linear-gradient(red, yellow);
 }
 
 header-image {
